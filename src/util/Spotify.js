@@ -1,5 +1,5 @@
 let accessToken
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'http://samchat5.github.io/playtime'
 const clientID = 'ca66d55317b74fd5b3348d9ce74c1765'
 
 const Spotify = {
